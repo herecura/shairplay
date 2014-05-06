@@ -1,6 +1,6 @@
 pkgbase = shairplay
 	pkgdesc = Apple airplay and raop protocol server
-	pkgver = 20140422.64d59e3
+	pkgver = 20140422
 	pkgrel = 1
 	url = https://github.com/juhovh/shairplay
 	arch = i686
