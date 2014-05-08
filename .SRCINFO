@@ -1,7 +1,7 @@
 pkgbase = shairplay
 	pkgdesc = Apple airplay and raop protocol server
 	pkgver = 20140422
-	pkgrel = 1
+	pkgrel = 2
 	url = https://github.com/juhovh/shairplay
 	arch = i686
 	arch = x86_64
@@ -9,8 +9,6 @@ pkgbase = shairplay
 	makedepends = git
 	depends = libao
 	optdepends = avahi: to run the server
-	provides = libshairport
-	conflicts = libshairport
 	options = !libtool
 	source = shairplay::git://github.com/juhovh/shairplay.git#commit=64d59e3087f829006d091fa0d114efb50972a2bf
 	source = shairplay.service
