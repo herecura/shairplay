@@ -3,8 +3,8 @@
 # Contributor: winlu
 
 pkgname=shairplay
-_commit=4b11f14
-pkgver=20180712.4b11f14
+_commit=6118b15
+pkgver=20180713.6118b15
 pkgrel=1
 pkgdesc='Apple airplay and raop protocol server'
 arch=('x86_64')
