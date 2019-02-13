@@ -1,11 +1,10 @@
-# $Id$
 # Maintainer: BlackIkeEagle <ike DOT devolder AT gmail DOT com>
 # Contributor: winlu
 
 pkgname=shairplay
 _commit=096b61a
 pkgver=20180824.096b61a
-pkgrel=1
+pkgrel=2
 pkgdesc='Apple airplay and raop protocol server'
 arch=('x86_64')
 url='https://github.com/juhovh/shairplay'
